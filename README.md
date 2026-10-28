@@ -65,4 +65,4 @@ Mobile sales dataset with 3,835 transactions and 14 columns, covering October 20
 
 ## Author
 
-**[Your name]** · [LinkedIn URL]
+**[Satyam]** · [(https://www.linkedin.com/in/satyam-jat-374481338)]
